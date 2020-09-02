@@ -42,62 +42,53 @@
       <div class="col-12 col-md-3 p-3 p-md-3">
 <div class="shadow bg-danger text-white text-center p-3 rounded">
  
-        <ul class="nav navbar-nav">
+      
       		  @if (Auth::guest())
-          <li>
+        
             <a class="text-light" href="{{ url('/') }}">Home</a>
            <hr class="bg-white">
-		  </li>
-		       <li>
+		
             <a class="text-light" href="{{ url('/home') }}">Blog</a>
 			 <hr class="bg-white">
-          </li>
-		  <li>
+        
             <a class="text-light" href="{{ url('/get-started-now') }}">Get Started</a>
 			 <hr class="bg-white">
-          </li>
-		  <li>
+          
             <a class="text-light" href="{{ url('/download-laravel-blogs') }}">Download</a>
 			 <hr class="bg-white">
-          </li>
+         
 
       @else
-		  <li>
+		
             <a class="text-light" href="{{ url('/') }}">Home</a>
            <hr class="bg-white">
-		  </li>
-		  <li>
+		 
             <a class="text-light" href="{{ url('/get-started-now') }}">Get Started</a>
 			 <hr class="bg-white">
-          </li>
-		  <li>
+         
             <a class="text-light" href="{{ url('/download-laravel-blogs') }}">Download</a>
 			 <hr class="bg-white">
-          </li>
-     <li>
+       
             <a class="text-light" href="{{ url('/home') }}">Blog</a>
 			 <hr class="bg-white">
-          </li>
-		  <li>
+         
             <a class="text-light" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Login as {{ Auth::user()->name }} <span class="caret"></span></a>
            
               @if (Auth::user()->can_post())
-              <li>
+            
                 <a class="text-light" href="{{ url('/new-post') }}">Add new post</a>
-              </li>
-              <li>
+            
                 <a class="text-light" href="{{ url('/user/'.Auth::id().'/posts') }}">My Posts</a>
-              </li>
+            
               @endif
-              <li>
+           
                 <a class="text-light" href="{{ url('/user/'.Auth::id()) }}">My Profile</a>
-              </li>
-              <li>
+             
                 <a class="text-light" href="{{ url('/logout') }}">Logout</a>
-              </li>
+             
             
           @endif
-        </ul>
+        
 </div>
 	  </div>
       <div class="col-12 col-md-8 p-3">
