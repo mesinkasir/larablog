@@ -38,5 +38,9 @@ run comand : composer install && npm install && php artisan key:generate && php 
 
 Open web browser and visit localhost:8000
 
+Login with :
+email : admin@admin.com
+pass : 12345678
+
 now you can use laravel blogs. lets get started write a content  !!
 
