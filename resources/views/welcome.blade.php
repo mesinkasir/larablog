@@ -58,13 +58,13 @@
 		<p>
 		Lets get started now, and create your modern website blog using laravel php artisan and be the artisan.
 		</p>
-		<a href="" class="btn btn-light rounded">Download</a> or <a href="" class="btn btn-light rounded">Fork It</a> 
+		<a href="https://sourceforge.net/projects/larablog/" class="btn btn-light rounded">Download</a> or <a href="https://github.com/mesinkasir/larablog" class="btn btn-light rounded">Fork It</a> 
 		</div>
 	  </div>
       <div class="col-md-12 col-md-12 text-center">
-        <p>
+         <p>
 		<small>
-		Powered by Laravel Blogs made with ❤ by <a class="text-danger" href="https://mesinkasironline.web.app">mesinkasironline.web.app</a>
+		Powered by <a href="https://larablog.sourceforge.io/" class="text-danger">Laravel Blogs</a> made with ❤ by <a class="text-danger" href="https://mesinkasironline.web.app">mesinkasironline.web.app</a>
 		</small>
 		</p>
       </div>
