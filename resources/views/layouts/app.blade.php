@@ -117,7 +117,7 @@
       <div class="col-md-12 col-md-12 text-center">
         <p>
 		<small>
-		Powered by Laravel Blogs made with ❤ by <a class="text-danger" href="https://mesinkasironline.web.app">mesinkasironline.web.app</a>
+		Powered by <a href="https://larablog.sourceforge.io/" class="text-danger">Laravel Blogs</a> made with ❤ by <a class="text-danger" href="https://mesinkasironline.web.app">mesinkasironline.web.app</a>
 		</small>
 		</p>
       </div>
