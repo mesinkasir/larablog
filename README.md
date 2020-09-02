@@ -13,8 +13,7 @@ The PHP artisan bloging platform , simple for blogger.
 
 ### Download Laravel Blogs
 
-You can download on sourceforge.
-[Sourceforge Download](https://sourceforge.net/projects/larablog/files/latest/download)
+download or git clone https://github.com/mesinkasir/larablog.git
 
 Download laravel blogs and move to your project folder, for the first you need install third party application for run this modern blog platform.
 
