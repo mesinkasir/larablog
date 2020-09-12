@@ -25,7 +25,7 @@ There is no post till now. Login and write a new post now!!!
         {!! Str::limit($post->body, $limit = 500, $end = '....... ') !!}
 		<br/>
 		<div class="text-right">
-		<a class="btn btn-danger rounded-pill" href='.url("/".$post->slug).'>Read More</a>
+<a class="btn btn-danger rounded-pill" href='{{ url('/'.$post->slug) }}'>Read More</a>
 		</div>
       </article>
 <hr/> 
