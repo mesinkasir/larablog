@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# LARABLOG
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/larablog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The PHP artisan bloging platform , simple for blogger.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image of Yaktocat](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs%282%29.png/max/max/1)
 
-### Markdown
+![Laravel Blogs CMS](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs.png/max/max/1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Laravel Blogs CMS](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs%281%29.png/max/max/1)
 
-```markdown
-Syntax highlighted code block
+![Laravel Blogs CMS](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Download%20Laravel%20Blogs.png/max/max/1)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Download Laravel Blogs
 
-1. Numbered
-2. List
+download or git clone https://github.com/mesinkasir/larablog.git
 
-**Bold** and _Italic_ and `Code` text
+Download laravel blogs and move to your project folder, for the first you need install third party application for run this modern blog platform.
 
-[Link](url) and ![Image](src)
-```
+Or download link : 
+[Xampp server →](https://www.apachefriends.org/download.html) 
+[Git → ](https://git-scm.com/downloads)
+[Composer →](https://getcomposer.org/download/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Download and run all third party application, for xampp you need configure to auto start apache and mysql
+because we use mysql for databased and apache for web server on local host.
 
-### Jekyll Themes
+After download and install all application now you can run with git, just right click on laravel blog folder and select git bash here
+and we need to install laravel then run command : composer global require "laravel/installer=~1.1"
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/larablog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Run Xampp web server , and open localhost/phpmyadmin on your web browser you can using google chrome or mozila or your favorite web browser
+and create new mysql databased , just click database - database name (name it with laravelblog) - create.
 
-### Support or Contact
+After new databased create now you can click on import databased , and import laravelblog.sql file.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+now back to laravel blog folder , right click an select git bash , 
+run comand : composer install && npm install && php artisan key:generate && php artisan serve
+
+Open web browser and visit localhost:8000
+
+Login with :
+email : admin@admin.com
+pass : 12345678
+
+now you can use laravel blogs. lets get started write a content  !!
+
