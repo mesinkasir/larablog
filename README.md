@@ -2,7 +2,12 @@
 
 The PHP artisan bloging platform , simple for blogger.
 
-![Image of Yaktocat](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs%282%29.png/max/max/1)
+
+For full installation and documentation visit here :
+https://www.hockeycomputindo.com/2020/09/larablog-laravel-cms-blog-with-seo.html
+
+
+![Laravel Blog cms new modern](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs%282%29.png/max/max/1)
 
 ![Laravel Blogs CMS](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs.png/max/max/1)
 
@@ -44,3 +49,6 @@ pass : 12345678
 
 now you can use laravel blogs. lets get started write a content  !!
 
+
+For full installation and documentation visit here :
+https://www.hockeycomputindo.com/2020/09/larablog-laravel-cms-blog-with-seo.html
