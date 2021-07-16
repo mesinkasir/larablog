@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Laravel Blogs</title>
   <meta name="viewport" content="The Artisan New and modern website Blog - made with ❤ by mesinkasironline.web.app">
-  <link rel="icon" href="https://pointofsale-sourcecode-laravel.sourceforge.io//lara.png">
+  <link rel="icon" href="https://laravel.com/img/logomark.min.svg">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
 </head>
@@ -104,14 +104,14 @@
       <div class="col-md-12 col-md-12 text-center">
         <p>
 		<small>
-		Powered by <a href="https://larablog.sourceforge.io/" class="text-danger">Laravel Blogs</a> made with ❤ by <a class="text-danger" href="https://mesinkasironline.web.app">mesinkasironline.web.app</a>
+		Powered by <a href="https://www.hockeycomputindo.com/2020/09/larablog-laravel-cms-blog-with-seo.html" class="text-danger">Laravel Blogs</a> made with ❤ by <a class="text-danger" href="https://mesinkasironline.web.app">mesinkasironline.web.app</a>
 		</small>
 		</p>
       </div>
     </div>
   </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script><script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script><script src='https://mesinkasir.github.io/larapos/pos/gallerya.js'></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 </body>
 
