@@ -8,15 +8,6 @@ https://www.hockeycomputindo.com/2020/09/larablog-laravel-cms-blog-with-seo.html
 
 ### *Work with laravel 7*
 
-![Laravel Blog cms new modern](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs%282%29.png/max/max/1)
-
-![Laravel Blogs CMS](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs.png/max/max/1)
-
-![Laravel Blogs CMS](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Laravel%20Blogs%281%29.png/max/max/1)
-
-![Laravel Blogs CMS](https://a.fsdn.com/con/app/proj/larablog/screenshots/Screenshot_2020-09-02%20Download%20Laravel%20Blogs.png/max/max/1)
-
-
 ### Download Laravel Blogs
 
 download or git clone https://github.com/mesinkasir/larablog.git
